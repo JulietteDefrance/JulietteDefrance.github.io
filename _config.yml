@@ -1,12 +1,12 @@
 # Site settings
-title: Your awesome title
+title: Juliette se raconte
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  ceci est mon espace a moi.. que j'aime bien ^^.
+  Ici vous allez pouvoir découvrir le monde magique du multimédia, qui plus est en ma compagnie (héhé)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: JulietteDefranc
-github_username:  jekyll
+github_username:  JulietteDefrance
 
 # Build settings
 markdown: kramdown
